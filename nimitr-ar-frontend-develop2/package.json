@@ -1,0 +1,68 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.7.2",
+    "@dropzone-ui/react": "^6.7.20",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/inter": "^4.5.14",
+    "@fontsource/koho": "^4.5.11",
+    "@fontsource/noto-sans-thai": "^4.5.12",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@react-three/drei": "^9.47.1",
+    "@react-three/fiber": "^8.9.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/dropzone": "^5.7.4",
+    "apollo-link": "^1.2.14",
+    "axios": "^1.2.1",
+    "dom-to-image": "^2.6.0",
+    "dropzone": "^6.0.0-beta.2",
+    "graphql": "^16.6.0",
+    "graphql-ws": "^5.11.2",
+    "html-to-image": "^1.11.4",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-html-document": "^3.1.0",
+    "react-qr-code": "^2.0.11",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^6.4.5",
+    "react-scripts": "5.0.1",
+    "stream": "^0.0.2",
+    "three": "^0.147.0",
+    "three-gltf-loader": "^1.111.0",
+    "util": "^0.12.5",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
